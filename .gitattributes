@@ -1,0 +1,6 @@
+product/app/Gmail2/Gmail2.apk filter=lfs diff=lfs merge=lfs -text
+product/app/TrichromeLibrary/TrichromeLibrary.apk filter=lfs diff=lfs merge=lfs -text
+product/app/Messages/Messages.apk filter=lfs diff=lfs merge=lfs -text
+product/app/MotoPhotoEditor/MotoPhotoEditor.apk filter=lfs diff=lfs merge=lfs -text
+system/system/framework/framework-res.apk filter=lfs diff=lfs merge=lfs -text
+bootimg/02_dtbdump_S$gh.dtb filter=lfs diff=lfs merge=lfs -text
