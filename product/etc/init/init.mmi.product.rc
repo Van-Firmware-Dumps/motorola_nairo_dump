@@ -1,0 +1,11 @@
+on property:ro.vendor.hw.ram=4GB
+    setprop ro.MAX_HIDDEN_APPS 32
+    setprop ro.config.use_compaction true
+    setprop ro.config.compact_action_1 4
+    setprop ro.config.compact_action_2 2
+on property:ro.vendor.hw.ram=6GB
+    setprop ro.MAX_HIDDEN_APPS 42
+    setprop ro.config.use_compaction false
+on property:ro.vendor.hw.ram=8GB
+    setprop ro.MAX_HIDDEN_APPS 60
+    setprop ro.config.use_compaction false

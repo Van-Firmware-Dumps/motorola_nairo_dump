@@ -1,0 +1,21 @@
+## msi-user 11 RPNS31.Q4U-39-27-9-2-8 cd477 release-keys
+- Manufacturer: motorola
+- Platform: lito
+- Codename: nairo
+- Brand: motorola
+- Flavor: msi-user
+- Release Version: 11
+- Kernel Version: 4.19.125
+- Id: RPNS31.Q4U-39-27-9-2-8
+RPNS31.Q4U-39-27-9-2-8
+- Incremental: cd477
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Treble Device: true
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: motorola/nairo_retail/nairo:11/RPNS31.Q4U-39-27-9-2-8/cd477:user/release-keys
+- OTA version: 
+- Branch: msi-user-11-RPNS31.Q4U-39-27-9-2-8-cd477-release-keys
+- Repo: motorola_nairo_dump
